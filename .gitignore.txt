@@ -1,0 +1,33 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de entorno o configuración secreta
+.env
+
+# Logs y bases de datos temporales
+*.log
+*.sqlite3
+
+# Archivos de caché
+*.cache
+*.bak
+
+# Archivos del sistema de Windows
+ehthumbs.db
+Desktop.ini
